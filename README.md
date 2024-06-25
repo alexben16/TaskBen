@@ -18,6 +18,8 @@ docker compose down
 
 # Using the Discord bot
 
+Learn the actual token and update TOKEN in bot.py
+
 - First method:
 
   - Send the `!start` command to the TaskBen#3563 bot
